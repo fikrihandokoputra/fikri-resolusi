@@ -1,4 +1,4 @@
 FIKRI RESOLUSI
-- Konsisten untuk mempelajari web programming hingga mahir
 - Mencoba untuk mencari pekerjaan yang terkait dengan web programming sebagai side job atau main job 2 tahun ke depan
 - Membuat web yang sangat interaktif dan membuat puas user
+- Membuat training
