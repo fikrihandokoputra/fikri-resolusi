@@ -2,3 +2,4 @@
 - Setelah itu akan belajar Back End Developing
 - Setelah itu saya akan belajar template
 - Belajar laravel
+- dan framework CI
