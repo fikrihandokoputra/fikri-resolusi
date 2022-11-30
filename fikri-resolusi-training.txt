@@ -1,3 +1,4 @@
 - Saat ini saya berfokus untuk belajar section Front End Developing
 - Setelah itu akan belajar Back End Developing
 - Setelah itu saya akan belajar template
+- tentang framework laravel
